@@ -21,4 +21,4 @@ lame (mp3/wav 转码与压缩神器)<br>
 ./lame -h --abr 8 /app/lame/audio/audiosource-128kbs.mp3  /app/lame/audio/new/audiosource-8kbs.wav  
 >更多说明  <br>
 
-访问https://www.muziflower.pub
+访问https://www.muziflower.pub/article/50.html
